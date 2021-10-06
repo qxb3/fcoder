@@ -1,0 +1,25 @@
+{
+  "name": "fcoder",
+  "version": "1.0.0",
+  "description": "A facebook messenger bot that can run programming languages and more!",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js",
+    "dev": "nodemon ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gx0c/fcoder.git"
+  },
+  "author": "gx0c",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gx0c/fcoder/issues"
+  },
+  "homepage": "https://github.com/gx0c/fcoder#readme",
+  "dependencies": {
+    "axios": "^0.22.0",
+    "bootbot": "^1.1.0",
+    "dotenv": "^10.0.0"
+  }
+}
