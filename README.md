@@ -4,4 +4,7 @@ A messenger bot that can run / execute programming language
 
 # Author
 
-<a href="https://github.com/qxb3">https://github.com/qxb3</a>
+<ul>
+  <li><a href="https://github.com/qxb3">Github</a></br></li>
+  <li><a href="https://www.facebook.com/leah.berenio">Facebook</a></li>
+</ul>
